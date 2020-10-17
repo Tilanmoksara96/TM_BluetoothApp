@@ -1,5 +1,6 @@
 # TM_BluetoothApp
-# Hacktoberfest2020:octocat:
+# OpenHackDay 2020:octocat:
+
 This project is created using JAVA .
 You can use this to participate Hacktoberfest2020 :octocat:
 .
